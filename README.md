@@ -21,4 +21,4 @@ A calculator project that runs in a terminal/console. This project uses the Pyth
 - [**XzeelArcadia**](https://xzeelarcadia.vercel.app/) - Code Owner (Original Author)
 
 ## License
-[MIT](https://github.com/Xzeel/LyricsPython/blob/main/LICENSE)
+MIT — See [LICENSE](LICENSE)
